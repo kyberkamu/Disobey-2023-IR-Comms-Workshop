@@ -12,6 +12,8 @@ You can do it. That's why you're here.
 
 ### Part 3: Use this template to help you carry your message in the scenario. You may also opt to write a message on your own.
 
+---
+
 ## Scenario: Notifying an end user
 
 ### Part 1. Context
@@ -34,6 +36,8 @@ You feel frustrated, annoyed that you got a call from the NCSC about this partic
 
 Sure, this particular case had an inviting looking message from a familiar sender, asking the user to login to view a shared file. The login page had all the right graphics and everything, and it the URL was the same as in all the other reported cases you heard about in Part 1. For some reason the URL was not caught by the automatic email scanner.
 
+---
+
 ### Part 2. Your task
 
 **Write an email to the original victim in your organisation.** You don't have all the details figured out, but you know the user got an email from a regular contact, tried to log in to view a document, and ended up sending out malware to all their contacts.
@@ -50,6 +54,8 @@ The user is scared this will impact their job, and they are worried about losing
 
 - Blaming the victim
 - Causing more alarm and creating more stress
+
+---
 
 ### Part 3. Template no 1.
 

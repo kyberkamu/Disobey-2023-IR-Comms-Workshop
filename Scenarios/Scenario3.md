@@ -12,7 +12,9 @@ You can do it. That's why you're here.
 
 ### Part 3: Use this template to help you carry your message in the scenario. You may also opt to write a message on your own.
 
-## 3. 
+---
+
+## 3. Scenario
 
 ### Context
 
@@ -37,6 +39,8 @@ With dread, you see your boss turn over to you, their eyes focusing through the 
 - Lengthly explanations, keep it short
 - Describing the attack as "highly sophisticated"
 
+---
+
 ### Template no 3.
 
 **Subject: Security indicent at {organisation, date}**
@@ -52,7 +56,7 @@ More information:
 phone number and contact times
 email address}
 
-
+---
 
 #### Bonus task
 
@@ -61,6 +65,8 @@ email address}
 If you are the one who needs to do the interview, don't panic. Stick to your bullets, and stick to one phrase you can always repeat if you get a surprise question. E.g. if the journalist asks whether Russian hackers were behind your breach or not, you can repeat this: "Our aim is to ensure our employees, customers and partners information is safe and that we can avoid similar incidents in the future."
 
 It's ok to have a base statement with you to a media interview. You don't have to answer all questions that are asked. You can keep going back to the basic statement if you can't figure out anything else to say. It's okay. We might all be in that position one day.
+
+---
 
 #### Bonus template
 

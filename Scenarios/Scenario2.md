@@ -12,11 +12,15 @@ You can do it. That's why you're here.
 
 ### Part 3: Use this template to help you carry your message in the scenario. You may also opt to write a message on your own.
 
-## 2. 
+---
+
+## 2. Scenario
 
 ### You notified the end user about the incident (Scenario 1). Your boss has received some questions from outside of your organisation about the incident, and is asking you to explain the recent developments of the incident. The NCSC reached out back to you and said the original phishing domains had been taken down, reassuring you that currently there are no more victims that could come out of the same campaign. The malware sent out from your organisation was still being figured out.
 
 In your small organisation, it's your boss who handles most of the things. Customer enquiries, sales, website, the whole works. Now it's time for you to summarise to them what happened in the latest incident, so you have a baseline for communicating the scope and impact of the incident. 
+
+---
 
 ### Your task
 
@@ -34,6 +38,8 @@ The boss will have to know what to tell the customers about the incident, and wh
 
 - Tech jargon
 - Lengthly explanations, keep it short
+
+---
 
 ### Template no 2.
 
