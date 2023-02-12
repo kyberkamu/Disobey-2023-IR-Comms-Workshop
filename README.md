@@ -7,11 +7,11 @@ All workshop materials are under the Creative Commons Attribution-NonCommercial-
 
 1. Incident notification to end user
 2. Internal incident notification
-3. Public communication
+3. Public communication + bonus content
 
 ## Contact details
 
-Reach out about Kyberkamu materials and paid workshops at worksop at kyberkamu.fi.
+Reach out about Kyberkamu materials and paid workshops to: workshop at kyberkamu.fi
 
 ## Further reading
 
