@@ -13,6 +13,8 @@ All workshop materials are under the Creative Commons Attribution-NonCommercial-
 
 Reach out about Kyberkamu materials and paid workshops to: workshop at kyberkamu.fi
 
-## Further reading
+## Testimonials
 
-TBD
+"This workshop was so great it's now dist's homepage" - Anonymous
+"This was great! Will use these materials with my students" - Cyber sec lecturer
+"It's exactly what we needed, will there be more?" - Anonymous attendee
